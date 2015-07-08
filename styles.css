@@ -1,0 +1,73 @@
+* {
+  border: 2px solid gray;
+  background: #ddd;
+}
+
+.intro {
+
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav-btn {
+  display: inline-block;
+}
+
+.hero {
+  text-align: center;
+}
+
+.hero-header {
+  font-variant: small-caps
+}
+
+.shop-btn {
+
+}
+
+.catalog {
+  background: white;
+}
+
+.catalog-year-container {
+}
+
+.year-header {
+
+}
+
+.catalog-year-title {
+
+}
+.catalog-year-year {
+
+}
+.catalog-year-hr {
+
+}
+.catalog-year-logline {
+
+}
+.year-content {
+
+}
+.scarf {
+
+}
+.scarf-content {
+
+}
+.scarf-pic {
+
+}
+.scarf-name {
+
+}
+.scarf-hr {
+
+}
+.detail-btn {
+
+}
